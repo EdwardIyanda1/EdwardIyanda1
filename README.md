@@ -23,7 +23,7 @@ I'm currently a student at **Lead City University**, Nigeria, studying **Softwar
 ### 🔗 Connect With Me
 - 📧 Email: edwardiyanda60@gmail.com  
 - 🌍 Portfolio: [deveddy.vercel.app](https://deveddy.vercel.app)
-- 🐦 Twitter: [@iyanda_edward](https://twitter.com/edwardd_iyanda)
+- 🐦 Twitter: [@edwardd_iyanda](https://twitter.com/edwardd_iyanda)
 
 ---
 
