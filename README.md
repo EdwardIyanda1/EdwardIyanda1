@@ -5,11 +5,12 @@
 I'm currently a student at **Lead City University**, Nigeria, studying **Software Engineering**. I'm passionate about building practical, real-world web apps that solve problems for students, schools, and startups.
 
 ### 🔨 Projects I'm Working On
+- 👩‍💻 **[TechBridgers-NG](https://github.com/EdwardIyanda1/techbridgers-ng)** - TechBridgers-NG Official Website
 - 🎓 **[Summer-Project](https://github.com/EdwardIyanda1/Summer-Project)** — COS 109: Campus Map & Directory (Interactive map for Lead City University)
-- 🛍️ **LeatheredbyB** — E-commerce store for handmade leather items
-- 🛒 **OnShopX** — Smart online fashion store with cart, auth, and responsive product filtering
-- 📘 **StudyBuddy** — Student resource platform with course materials and scheduling
-- 🧪 **Olivet CBT App** — Computer-Based Testing platform for secondary schools
+- 🛍️ **[Leatheredbyb](https://github.com/EdwardIyanda1/Summer-Project)** — E-commerce store for handmade leather items
+- 🛒 **[OnShopX](https://github.com/EdwardIyanda1/OnShopX)** — Smart online fashion store with cart, auth, and responsive product filtering
+- 📘 **[StudyBuddy](https://github.com/EdwardIyanda1/studybuddy)** — Student resource platform with course materials and scheduling
+- 🧪 **[Olivet CBT App](https://github.com/EdwardIyanda1/olivet_cbt)** — Computer-Based Testing platform for secondary schools
 
 ### 🌐 Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
